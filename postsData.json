@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "author": "Fareedh Shah",
+    "title": "Break the Habit:One Year Sober and Going into 2025",
+    "date": "2025-01-17",
+    "text": "Just finished a great session on self-care. Highly recommend checking it out!",
+    "imageUrl": "https://theserenitycenterla.com/wp-content/uploads/2024/05/What-Happens-in-Drug-Rehab.jpg",
+    "comments": [
+      {"user": "User1", "text": "Congratulations on your achievement!"},
+      {"user": "User2", "text": "This is inspiring!"},
+      {"user": "User3", "text": "Great work, keep going!"},
+      {"user": "User4", "text":"Thanks for sharing your journey!"}
+    ],
+    "upvotes": 25
+  },
+  {
+    "id": 2,
+    "author": "MindfulGamer",
+    "title": "Seeking Anxiety Tips",
+    "date": "2025-01-16",
+    "text": "New to this space and looking for recommendations. Any tips for dealing with anxiety?",
+    "imageUrl": "https://images.unsplash.com/photo-1553095066-5014bc7b7f2d?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "comments": [
+      {"user":"User1","text": "Try mindfulness meditation."},
+      {"user":"User2","text":"Exercise and get good sleep."},
+      {"user":"User3", "text": "Deep breathing exercises can help."},
+      {"user": "User4", "text": "Consider talking to a therapist."},
+      {"user": "User5", "text": "Listen to calming music!"},
+      {"user": "User6", "text": "Avoid coffee and sugar"}
+    ],
+    "upvotes": 15
+  },
+  {
+    "id": 3,
+    "author": "PeaceSeeker",
+    "title": "Admiring Nature",
+    "date": "2025-01-15",
+    "text": "Sharing a beautiful sunset picture. Sometimes you just need to stop and admire the beauty around you.",
+    "imageUrl": "https://images.unsplash.com/photo-1501785888041-a3ef199d424d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "comments": [
+      {"user": "User1", "text": "So beautiful, it's so calming."},
+      {"user": "User2", "text": "Nature is such a great cure!"},
+      {"user": "User3", "text": "I wish i was there!"}
+    ],
+    "upvotes": 18
+  },
+  {
+    "id": 4,
+    "author": "SoberLife",
+    "title": "A Year of Sobriety",
+    "date": "2025-01-14",
+    "text": "Celebrating a year of sobriety. It's been a tough journey, but so rewarding.",
+    "imageUrl": "https://images.unsplash.com/photo-1633873002285-76b46700a761?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fA%3D%3D",
+    "comments": [
+      {"user": "User1", "text": "Congratulations!"},
+      {"user":"User2", "text": "Wow you are inspiring!"},
+      {"user":"User3", "text": "Such a tough journey!"},
+      {"user":"User4", "text":"Keep up the good work!"},
+      {"user":"User5", "text":"You are so strong!"},
+      {"user":"User6", "text":"We are proud of you!"},
+      {"user": "User7", "text": "This is amazing!"}
+    ],
+    "upvotes": 35
+  },
+  {
+    "id": 5,
+    "author": "MindfulJourney",
+    "title": "Journaling for Growth",
+    "date": "2025-01-13",
+    "text": "Do you use journaling as a tool for growth? I find it to be incredibly helpful in processing thoughts and emotions.",
+    "imageUrl": "https://images.unsplash.com/photo-1572171303504-904b0a771d1e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "comments": [
+      {"user": "User1", "text": "Yes, i love journaling!"},
+      {"user": "User2", "text": "I should start journaling"},
+      {"user": "User3","text": "Journaling changed my life"},
+      {"user": "User4","text":"I will start journaling"},
+      {"user":"User5","text": "It's a great way to process things"}
+
+    ],
+    "upvotes": 28
+  },
+  {
+    "id": 6,
+    "author": "HealthyHabits",
+    "title": "Relaxation Techniques",
+    "date": "2025-01-12",
+    "text": "What are your favorite relaxation techniques? I'm always looking for new ways to reduce stress.",
+    "imageUrl": "https://images.unsplash.com/photo-1645928634930-850766e6049c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "comments": [
+      {"user":"User1","text": "Yoga helps me alot"},
+      {"user":"User2","text":"I love listening to binaural beats"},
+      {"user":"User3", "text":"A walk in nature does wonders"},
+      {"user":"User4","text": "Try a warm bath"},
+      {"user":"User5","text":"Progressive muscle relaxation"},
+      {"user": "User6", "text": "I practice mindfulness every day"},
+      {"user": "User7", "text": "Try ASMR"},
+      {"user": "User8", "text": "Listen to rain sounds"}
+    ],
+    "upvotes": 40
+  }
+]

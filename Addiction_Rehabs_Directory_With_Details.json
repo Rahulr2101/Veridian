@@ -1,0 +1,157 @@
+{
+  "Find_Addiction_Rehabs": {
+    "Alcohol_and_Drug_Addiction_Rehabs": [
+      {
+        "name": "Inpatient Treatment",
+        "link": "https://findaddictionrehabs.com/inpatient-treatment/",
+        "summary": "Provides a structured environment with 24/7 care for individuals undergoing intensive treatment for addiction."
+      },
+      {
+        "name": "Outpatient Treatment",
+        "link": "https://findaddictionrehabs.com/outpatient-treatment/",
+        "summary": "Allows individuals to attend therapy and treatment sessions while living at home."
+      },
+      {
+        "name": "Partial Hospitalization Programs (PHP)",
+        "link": "https://findaddictionrehabs.com/partial-hospitalization-programs/",
+        "summary": "Offers a balance between inpatient and outpatient treatment, with intensive therapy during the day."
+      },
+      {
+        "name": "Intensive Outpatient Programs (IOP)",
+        "link": "https://findaddictionrehabs.com/intensive-outpatient-programs/",
+        "summary": "Focuses on recovery through structured counseling and therapy sessions several times a week."
+      },
+      {
+        "name": "Detox Centers",
+        "link": "https://findaddictionrehabs.com/detox-centers/",
+        "summary": "Provides medically supervised detoxification to safely manage withdrawal symptoms."
+      },
+      {
+        "name": "Sober Living Homes",
+        "link": "https://findaddictionrehabs.com/sober-living-homes/",
+        "summary": "Offers a supportive environment for individuals transitioning back to normal life after rehab."
+      }
+    ],
+    "Specialized_Treatment_Programs": [
+      {
+        "name": "Dual Diagnosis Treatment",
+        "link": "https://findaddictionrehabs.com/dual-diagnosis-treatment/",
+        "summary": "Addresses both addiction and co-occurring mental health disorders simultaneously."
+      },
+      {
+        "name": "Adolescent Treatment Programs",
+        "link": "https://findaddictionrehabs.com/adolescent-treatment-programs/",
+        "summary": "Provides addiction treatment tailored to teenagers and young adults."
+      },
+      {
+        "name": "Veterans and First Responders Programs",
+        "link": "https://findaddictionrehabs.com/veterans-first-responders-treatment/",
+        "summary": "Specialized care designed for veterans and first responders struggling with addiction."
+      },
+      {
+        "name": "LGBTQ+ Friendly Treatment",
+        "link": "https://findaddictionrehabs.com/lgbtq-friendly-treatment/",
+        "summary": "Creates a safe and accepting environment for LGBTQ+ individuals seeking addiction recovery."
+      },
+      {
+        "name": "Faith-Based Recovery",
+        "link": "https://findaddictionrehabs.com/faith-based-recovery/",
+        "summary": "Incorporates spiritual practices into the recovery process for individuals seeking faith-centered care."
+      },
+      {
+        "name": "Holistic Treatment Centers",
+        "link": "https://findaddictionrehabs.com/holistic-treatment-centers/",
+        "summary": "Focuses on whole-body healing through alternative therapies like yoga, meditation, and acupuncture."
+      }
+    ],
+    "Treatment_By_Substance": [
+      {
+        "name": "Alcohol Addiction",
+        "link": "https://findaddictionrehabs.com/alcohol-addiction-treatment/",
+        "summary": "Specialized programs to address alcohol dependency and related behaviors."
+      },
+      {
+        "name": "Opioid Addiction",
+        "link": "https://findaddictionrehabs.com/opioid-addiction-treatment/",
+        "summary": "Programs focusing on overcoming dependency on opioids like heroin or prescription painkillers."
+      },
+      {
+        "name": "Cocaine Addiction",
+        "link": "https://findaddictionrehabs.com/cocaine-addiction-treatment/",
+        "summary": "Provides therapies to address the psychological and physical impact of cocaine addiction."
+      },
+      {
+        "name": "Methamphetamine Addiction",
+        "link": "https://findaddictionrehabs.com/methamphetamine-addiction-treatment/",
+        "summary": "Treatments designed to help individuals recover from methamphetamine use."
+      },
+      {
+        "name": "Benzodiazepine Addiction",
+        "link": "https://findaddictionrehabs.com/benzodiazepine-addiction-treatment/",
+        "summary": "Addresses addiction to sedatives like Xanax and Valium through specialized care."
+      },
+      {
+        "name": "Marijuana Addiction",
+        "link": "https://findaddictionrehabs.com/marijuana-addiction-treatment/",
+        "summary": "Helps individuals overcome dependence on marijuana and manage its effects."
+      },
+      {
+        "name": "Prescription Drug Addiction",
+        "link": "https://findaddictionrehabs.com/prescription-drug-addiction-treatment/",
+        "summary": "Focused on treating addiction to medications like painkillers and stimulants."
+      }
+    ],
+    "Helpline_Numbers": [
+      {
+        "name": "National Helpline Service",
+        "contact": "1-800-662-HELP (4357)",
+        "summary": "Provides free and confidential treatment referral and information services, 24/7."
+      },
+      {
+        "name": "Substance Abuse and Mental Health Services Administration (SAMHSA)",
+        "contact": "1-877-SAMHSA7 (1-877-726-4727)",
+        "summary": "Offers mental health and addiction-related assistance and referrals."
+      },
+      {
+        "name": "Alcoholics Anonymous",
+        "contact": "212-870-3400",
+        "summary": "Helpline for individuals seeking help for alcohol-related issues."
+      },
+      {
+        "name": "National Drug Helpline",
+        "contact": "1-844-289-0879",
+        "summary": "Provides support for individuals struggling with drug addiction and abuse."
+      },
+      {
+        "name": "Crisis Text Line",
+        "contact": "Text HOME to 741741",
+        "summary": "Offers free 24/7 support through text messages for individuals in crisis."
+      },
+      {
+        "name": "National Suicide Prevention Lifeline",
+        "contact": "1-800-273-TALK (1-800-273-8255)",
+        "summary": "Provides support for individuals experiencing suicidal thoughts or mental health crises."
+      },
+      {
+        "name": "Veterans Crisis Line",
+        "contact": "1-800-273-8255 (Press 1)",
+        "summary": "A helpline offering specialized support for veterans and their families."
+      },
+      {
+        "name": "Teenline",
+        "contact": "1-800-TLC-TEEN (1-800-852-8336)",
+        "summary": "Helpline providing peer-to-peer support for teens struggling with depression, addiction, or other issues."
+      },
+      {
+        "name": "Narcotics Anonymous",
+        "contact": "1-818-773-9999",
+        "summary": "Helpline for individuals seeking help for narcotic addiction."
+      },
+      {
+        "name": "Partnership to End Addiction",
+        "contact": "1-855-378-4373",
+        "summary": "Offers resources and support for families and individuals coping with drug addiction."
+      }
+    ]
+  }
+}
