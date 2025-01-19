@@ -9,6 +9,7 @@ import { LinearGradient } from 'expo-linear-gradient';
 import { Audio } from 'expo-av';
 import {Image} from 'react-native';
 import uri from "ajv/lib/runtime/uri";
+import HelpButton from "@/app/helpbutton";
 
 const Home = () => {
   const router = useRouter();
@@ -164,6 +165,7 @@ const Home = () => {
 
 
   return (
+
       <View style={{flex: 1}}>
         <ScrollView style={styles.container}>
           <View style={styles.header}>
@@ -267,6 +269,7 @@ const Home = () => {
             </ScrollView>
           </View>
         </ScrollView>
+        <HelpButton></HelpButton>
         {isMeditationPlaying && currentMeditation ? (
             <View style={styles.fullScreen}>
               <LinearGradient
